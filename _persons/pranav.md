@@ -4,7 +4,7 @@ layout: person
 first_name: Pranav
 last_name: Dommata
 key: pranav
-permalink: 
+permalink: /assets/images/team/pranav.jpg
 # Pick one of the following
 role: msstudent
 email: pranav99@cs.utah.edu
